@@ -1,0 +1,32 @@
+@media screen and (max-width:900px) {
+    .start{
+        font-size: 1.5rem !important;
+    }
+
+    .double{
+        width: 300px !important;
+    }
+}
+
+.cards{
+    width: 18rem !important;
+}
+
+@media screen and (min-width:900px) {
+    .start{
+        font-size: 3.2rem !important;
+    }
+    .mastery p:first-child{
+        font-size: 3rem !important;
+    }
+
+    .mastery p:last-child{
+        font-size: 1.2rem !important;
+        width: 50% !important;
+        margin: 0 auto ;
+    }
+
+    .matter{
+        width: 75% !important;
+    }
+}
